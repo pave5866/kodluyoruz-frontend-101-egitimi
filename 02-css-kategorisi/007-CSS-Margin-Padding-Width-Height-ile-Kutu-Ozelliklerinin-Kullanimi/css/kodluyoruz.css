@@ -89,26 +89,26 @@ li:nth-child(3n){
     color: red;
 } 
 
- .color-blue .fw-normal {
+.color-blue .fw-normal {
      color: blue;
      font-weight: normal;
- }
+}
 
- h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
      color: #2c2c2c;
- }
- h1 {
-     font-size: 30px;
-     color: #202020;
- }
+}
+h1 {
+      font-size: 30px;
+      color: #202020;
+}
 
- p {
+p {
      font-size: 20px;
- }
+}
 
- #first-article {
+#first-article {
      font-size: 40px;
- }
+}
    
 
 .text-red {
